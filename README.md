@@ -75,9 +75,9 @@ Mysql 5.7+
 <hr/>
 <div align="center">管理员首页<img src="screenshots2/pc-h1.png" /> </div>
 <hr/>
-<div align="center">管理员首页<img src="screenshots2/pc-h2.png" /> </div>
+<div align="center">题库管理<img src="screenshots2/pc-h2.png" /> </div>
 <hr/>
-<div align="center">管理员首页<img src="screenshots2/pc-h3.png" /> </div>
+<div align="center">卡密管理<img src="screenshots2/pc-h3.png" /> </div>
 <hr/>
-<div align="center">管理员首页<img src="screenshots2/pc-h4.png" /> </div>
+<div align="center">子管理员设置<img src="screenshots2/pc-h4.png" /> </div>
 <hr/>
