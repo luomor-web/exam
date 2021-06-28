@@ -64,12 +64,12 @@ Mysql 5.7+
 
 #### 学员PC前端效果图
 <hr/>
-<div align="center">学员首页 <img src="screenshots/yy1.png" /></div><hr/>
-<div align="center">试卷列表 <img src="screenshots/yy2.png" /></div><hr/>
-<div align="center">我的错题 <img src="screenshots/yy3.png" /></div><hr/>
-<div align="center">我的收藏 <img src="screenshots/yy4.png" /></div><hr/>
-<div align="center">开始刷题 <img src="screenshots/yy5.png" /></div><hr/>
-<div align="center">错题重练 <img src="screenshots/yy6.png" /></div><hr/>
+<div align="center">学员首页 <img src="screenshots2/pc-x1.png" /></div><hr/>
+<div align="center">学员首页 <img src="screenshots2/pc-x2.png" /></div><hr/>
+<div align="center">学员首页 <img src="screenshots2/pc-x3.png" /></div><hr/>
+<div align="center">学员首页 <img src="screenshots2/pc-x4.png" /></div><hr/>
+<div align="center">学员首页 <img src="screenshots2/pc-x5.png" /></div><hr/>
+<div align="center">学员首页 <img src="screenshots2/pc-x6.png" /></div><hr/>
 
 #### 管理员后台管理端
 <hr/>
