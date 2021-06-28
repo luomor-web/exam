@@ -66,20 +66,18 @@ Mysql 5.7+
 <hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x1.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x2.png" /></div><hr/>
-<div align="center">学员首页 <img src="screenshots2/pc-x3.png" /></div><hr/>
-<div align="center">学员首页 <img src="screenshots2/pc-x4.png" /></div><hr/>
+<div align="center">开始练习 <img src="screenshots2/pc-x3.png" /></div><hr/>
+<div align="center">顺序练习 <img src="screenshots2/pc-x4.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x5.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x6.png" /></div><hr/>
 
 #### 管理员后台管理端
 <hr/>
-<div align="center">管理员首页<img src="screenshots/hh1.png" /> </div>
+<div align="center">管理员首页<img src="screenshots2/pc-h1.png" /> </div>
 <hr/>
-<div align="center">试卷管理（固定组卷、抽题组卷、随机组卷）<img src="screenshots/hh2.png" /> </div>
+<div align="center">管理员首页<img src="screenshots2/pc-h2.png" /> </div>
 <hr/>
-<div align="center">题库管理 <img src="screenshots/hh3.png" /> </div>
+<div align="center">管理员首页<img src="screenshots2/pc-h3.png" /> </div>
 <hr/>
-<div align="center">学员管理 <img src="screenshots/hh4.png" /> </div>
-<hr/>
-<div align="center">角色管理<img src="screenshots/hh5.png" /> </div>
+<div align="center">管理员首页<img src="screenshots2/pc-h4.png" /> </div>
 <hr/>
