@@ -8,27 +8,42 @@
 #### 联系QQ（搜索：153768392）
 
 #### 功能介绍
+#### v3.0最新版功能介绍
+     1.新增微信小程序端刷题功能，支持微信小程序+电脑端刷题需求，多端刷题记录实时同步；
+     2.新增微信小程序端游客自行激活题库(通过授权码激活、微信在线支付激活敬请期待)；
+     3.优化试题大并发加载速度，通过多种缓存方式解决试题试题加载及实时刷题速度；
+     4.支持类SAAS模式，可开通子学校、子培训机构或子管理员，让其入驻使用；
+
 #### 适用机构场景：
      在线考试系统适用于企业考核、员工职评测、培训机构考证刷题等场景；
-#### 用户端功能：
-     【顺序练习】，【真题模拟】，【我的错题】，【我的收藏】、【错题重练(答对自动移除错题)】、【收藏夹题目练习】、【解析查看】等；
-#### 后端功能：
-                  1 - 主页实时各类统计数据展示大屏
-                  2 - 试卷管理（试卷的增、删、改、查）
-                  3 - 题库管理（单选、多选、判断、填空等的增删改查，固定组卷、抽题组卷、随机组卷）
-                  4 - 教师管理 （教师的增删改查、微信解绑）
-                  5 - 学员管理 
-                     5.1 - 学员账号管理（增删改查、清空做题记录、微信解绑）
-                     5.2 - 学员做题记录查看
-                  6 - 科目管理
-                  7 - 系统管理
-                      7.1 - 新闻公告发布
-                      7.2 - 角色管理
-                      7.3 - 菜单管理
-                      7.4 - 基础参数配置
-                      7.5 - 广告推荐管理 
-                          - 功能持续增加中...
 
+#### 用户端功能：
+     【网站首页信息】、【题库】、【顺序练习】【随机练习】，【真题模拟】，【我的错题】，【我的收藏】、【视频课程】、【题目搜索】、【考试记录】、【我的证书】、【错题重练(答对自动移除错题)】、【收藏夹题目练习】、【解析查看】等等；
+
+#### 后台功能：
+                  一、 学员管理模块
+                   1.1、学员管理【批量导入导出】、【开通课程】、【短信发送】、【培训记录】、【其他批量操作】
+                   1.2、班级机构管理 
+                   1.3、练习记录 
+                   1.4、考试记录 
+                   1.5、视频课程学习记录 
+
+                  二、 题库管理
+                   2.1、科目管理【出题规则设置】、【课程价格设置】等
+                   2.2、题库导入导出【单选、多选、判断】等
+                   2.3、视频课程题库维护等
+
+                  三、 卡密管理
+                   3.1、卡密生成、短信下方等
+ 
+                  四、 基础设置
+                   4.1、网站首页管理（新闻、推荐、热门课程）
+                   4.2、子管理员设置
+                   4.3、角色设置
+                   4.4、菜单设置
+                   4.5、字典设置
+                   4.6、参数设置
+                   其他功能陆续新增中...
 
 
 #### 运行环境
@@ -38,10 +53,15 @@ Mysql 5.7+
 
 
 #### 学员移动前端效果图
-<div align="center"> <img src="screenshots/qq1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq2.png" width = 400 height = 710</div>
-<div align="center"> <img src="screenshots/qq2.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq4.png" width = 400 height = 710</div>
-<div align="center"> <img src="screenshots/qq5.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq6.png" width = 400 height = 710</div>
-<div align="center"> <img src="screenshots/qq7.png" width = 400 height = 710/> </div>
+<div align="center"> <img src="screenshots2/wx_jh1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq2.png" width = 400 height = 710</div>
+<div align="center"> <img src="screenshots2/wx_kt1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq4.png" width = 400 height = 710</div>
+<div align="center"> <img src="screenshots2/wx_ss_1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq6.png" width = 400 height = 710</div>
+<div align="center"> <img src="screenshots2/wx_sxlx1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq6.png" width = 400 height = 710</div>
+
+<div align="center"> <img src="screenshots2/wx_tksy1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq6.png" width = 400 height = 710</div>
+
+<div align="center"> <img src="screenshots2/wx_tkxz1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots/qq6.png" width = 400 height = 710</div>
+
 
 #### 学员PC前端效果图
 <hr/>
