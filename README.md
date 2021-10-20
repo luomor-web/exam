@@ -74,7 +74,7 @@ Mysql 5.7+
 <hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x1.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x2.png" /></div><hr/>
-<div align="center">开始练习 <img src="screenshots2/pc-x3.png" /></div><hr/>
+<div align="center">开始练习 <img src="screenshots2/zhifu.jpeg" /></div><hr/>
 <div align="center">顺序练习 <img src="screenshots2/pc-x4.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x5.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x6.png" /></div><hr/>
