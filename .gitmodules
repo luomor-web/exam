@@ -1,0 +1,4 @@
+[submodule "onlineexam-system-backend"]
+	url  = https://gitee.com/elephant_soft/onlineexam-system-backend
+	path = onlineexam-system-backend
+
