@@ -1,6 +1,8 @@
 # 在线刷题考试微信小程序 支持电脑PC端刷题 手机端刷题  saas模式 一套题库支持多家机构分别使用
 
 #### 提示：此源码仅仅是考试系统后台接口地址一部分，非整个考试系统源码，有需要直接可以联系我奥，可以共同讨论。非喜勿喷，谢谢！
+### 访问官网
+<a href="http://www.elepsoft.com/" target="_blank">http://www.elepsoft.com/ 点击打开</a>
 
 #### 联系微信
 <div align="left"> <img src="screenshots/wx.png" width = 150 height = 170></div>
