@@ -63,11 +63,7 @@ Mysql 5.7+
 
 
 #### 学员移动前端效果图
-<div align="center"> <img src="screenshots2/wx_tkxz1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots2/wx_tksy1.png" width = 400 height = 710</div>
 
-<div align="center"> <img src="screenshots2/zhifu.jpeg" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots2/wx_kt1.png" width = 400 height = 710</div>
-
-<div align="center"> <img src="screenshots2/wx_ss_1.png" width = 400 height = 710/> &nbsp;&nbsp;&nbsp;&nbsp;<img src="screenshots2/wx_sxlx1.png" width = 400 height = 710</div>
 
 
 
