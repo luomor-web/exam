@@ -4,10 +4,10 @@
 ### 访问官网
 <a href="http://www.elepsoft.com/" target="_blank">http://www.elepsoft.com/ 点击打开</a>
 
-#### 联系微信
+#### 联系微信（动动您金贵的小手指，先给个Star鼓励一下奥，谢谢）
 <div align="left"> <img src="screenshots/wx.png" width = 150 height = 170></div>
 
-#### 联系QQ（搜索：153768392）
+#### 联系QQ（动动您金贵的小手指，先给个Star鼓励一下奥，谢谢）（搜索：153768392）
 
 #### 功能介绍
 
