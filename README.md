@@ -1,4 +1,4 @@
-# 在线刷题考试微信小程序 支持电脑PC端刷题 手机端刷题  saas模式 一套题库支持多家机构分别使用
+# 在线刷题考试 微信小程序 支持电脑PC端刷题 手机端刷题  saas模式 一套题库支持多家机构分别使用
 
 #### 提示：开源版功能有限，框架较老，现已改版，采用springboot开发，可以共同讨论。非喜勿喷，谢谢！
 ### 访问官网
@@ -11,6 +11,9 @@
 
 #### 功能介绍
 
+#### v3.2最新版功能介绍
+      1.新增考生报名、报名审核、班级、我的证书等功能；
+	  
 #### v3.1最新版功能介绍
       1.新增微信在线支付功能、正式组卷考试功能、考卷结果转PDF存档功能；
       
@@ -62,9 +65,14 @@ Java 1.8
 Mysql 5.7+
 
 
-#### 学员移动前端效果图
-
-暂无。。
+#### 学员小程序端效果图
+<hr/>
+<div align="center">学员首页 <img src="screenshots2/小程序-首页.jpg" /></div><hr/>
+<div align="center">科目切换 <img src="screenshots2/小程序-科目选择切换.jpeg" /></div><hr/>
+<div align="center">试题搜索 <img src="screenshots2/小程序-题目搜索界面.jpeg" /></div><hr/>
+<div align="center">在线激活科目 <img src="screenshots2/小程序激活方式在线支付.jpeg" /></div><hr/>
+<div align="center">在线报名 <img src="screenshots2/学员端-在线报名.jpeg" /></div><hr/>
+<div align="center">我的页面 <img src="screenshots2/小程序-我的页面.jpeg" /></div><hr/>
 
 #### 学员PC前端效果图
 <hr/>
