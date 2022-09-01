@@ -67,7 +67,7 @@ Mysql 5.7+
 
 #### 学员小程序端效果图
 <hr/>
-<div align="center">学员首页 <img src="screenshots2/小程序-首页.jpg" width="200px" height="500px" /></div><hr/>
+<div align="center">学员首页 <img src="screenshots2/小程序-首页.jpg" width="260px" height="450px" /></div><hr/>
 <div align="center">科目切换 <img src="screenshots2/小程序-科目选择切换.jpeg" /></div><hr/>
 <div align="center">试题搜索 <img src="screenshots2/小程序-题目搜索界面.jpeg" /></div><hr/>
 <div align="center">我的页面 <img src="screenshots2/小程序-我的页面.jpeg" /></div><hr/>
