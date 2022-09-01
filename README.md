@@ -68,7 +68,7 @@ Mysql 5.7+
 #### 学员小程序端效果图
 <hr/>
 <div align="center" style="background-color:red">学员首页 <br><img src="screenshots2/小程序-首页.png" width="260px" height="500px" /></div><hr/>
-<div align="center">科目切换 <br><img src="screenshots2/小程序-切换科目.png" width="260px" height="500px" style="border-style: dotted; border=5/></div><hr/>
+<div align="center">科目切换 <br><img src="screenshots2/小程序-切换科目.png" width="260px" height="500px"  style="border:10px solid red"/></div><hr/>
 <div align="center">试题搜索 <br><img src="screenshots2/小程序-题目搜索.png" width="260px" height="500px"/></div><hr/>
 <div align="center">我的页面 <br><img src="screenshots2/小程序-我的.png" width="260px" height="500px"/></div><hr/>
 <div align="center">在线激活科目 <br><img src="screenshots2/小程序-科目开通.png" width="260px" height="500px"/></div><hr/>
