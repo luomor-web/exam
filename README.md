@@ -1,4 +1,3 @@
-<div style="backgorund-color:red">
 # 在线刷题考试 微信小程序 支持电脑PC端刷题 手机端刷题  saas模式 一套题库支持多家机构分别使用
 
 #### 提示：开源版功能有限，框架较老，现已改版，采用springboot开发，可以共同讨论。非喜勿喷，谢谢！
@@ -68,7 +67,7 @@ Mysql 5.7+
 
 #### 学员小程序端效果图
 <hr/>
-<div align="center">学员首页 <br><img src="screenshots2/小程序-首页.png" width="260px" height="500px" /></div><hr/>
+<div align="center" style="background:red">学员首页 <br><img src="screenshots2/小程序-首页.png" width="260px" height="500px" /></div><hr/>
 <div align="center">科目切换 <br><img src="screenshots2/小程序-切换科目.png" width="260px" height="500px"/></div><hr/>
 <div align="center">试题搜索 <br><img src="screenshots2/小程序-题目搜索.png" width="260px" height="500px"/></div><hr/>
 <div align="center">我的页面 <br><img src="screenshots2/小程序-我的.png" width="260px" height="500px"/></div><hr/>
@@ -95,4 +94,3 @@ Mysql 5.7+
 <hr/>
 <div align="center">子管理员设置<img src="screenshots2/pc-h4.png" /> </div>
 <hr/>
-</div>
