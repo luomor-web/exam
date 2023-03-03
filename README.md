@@ -69,7 +69,7 @@ Mysql 5.7+
 
 #### 企业版学员小程序端效果图
 <hr/>
-<div align="center" style="background-color:red" style="border:10px solid red">小程序预览 <br><img src="screenshots2/特种作业考题宝典.jpg" width="260px" height="500px" /></div><hr/>
+<div align="center" style="background-color:red" style="border:10px solid red">小程序预览 <br><img src="screenshots2/特种作业考题宝典.jpg" width="260px" height="260px" /></div><hr/>
 
 <div align="center" style="background-color:red" style="border:10px solid red">学员首页 <br><img src="screenshots2/小程序-首页.png" width="260px" height="500px" /></div><hr/>
 <div align="center">科目切换 <br><img src="screenshots2/小程序-切换科目.png" width="260px" height="500px"  style="border:10px solid red"/></div><hr/>
