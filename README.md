@@ -56,7 +56,9 @@
                    5.4、菜单设置
                    5.5、字典设置
                    5.6、参数设置
-                   其他功能陆续新增中...
+                   5.7、操作日志
+                        ....
+                   其他功能陆续完善中...
 
 
 #### 运行环境
@@ -65,7 +67,7 @@ Java 1.8
 Mysql 5.7+
 
 
-#### 学员小程序端效果图
+#### 企业版学员小程序端效果图
 <hr/>
 <div align="center" style="background-color:red" style="border:10px solid red">学员首页 <br><img src="screenshots2/小程序-首页.png" width="260px" height="500px" /></div><hr/>
 <div align="center">科目切换 <br><img src="screenshots2/小程序-切换科目.png" width="260px" height="500px"  style="border:10px solid red"/></div><hr/>
@@ -75,7 +77,7 @@ Mysql 5.7+
 <div align="center">在线报名 <br><img src="screenshots2/学员端-在线报名.jpeg" width="260px" height="500px" /></div><hr/>
 
 
-#### 学员PC前端效果图
+#### 企业版学员PC前端效果图
 <hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x1.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x2.png" /></div><hr/>
@@ -84,7 +86,7 @@ Mysql 5.7+
 <div align="center">学员首页 <img src="screenshots2/pc-x5.png" /></div><hr/>
 <div align="center">学员首页 <img src="screenshots2/pc-x6.png" /></div><hr/>
 
-#### 管理员后台管理端
+#### 企业版管理员后台管理端
 <hr/>
 <div align="center">管理员首页<img src="screenshots2/pc-h1.png" /> </div>
 <hr/>
