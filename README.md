@@ -1,7 +1,7 @@
 # 基于若依的在线刷题考试 微信小程序 支持电脑PC端刷题 手机端刷题  saas模式 一套题库支持多家机构分别使用
 
 ### 访问官网
-<a href="http://www.elepsoft.com/" target="_blank">http://www.elepsoft.com/ 点击打开</a>
+<a href="http://www.elepsoft.com/" target="_blank">http://www.elepsoft.com/ 点击访问</a>
 
 #### 联系微信（动动您金贵的小手指，先给个Star鼓励一下奥，谢谢）
 <div align="left"> <img src="screenshots/wx.png" width = 150 height = 170></div>
