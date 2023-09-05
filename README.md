@@ -4,8 +4,8 @@
 ******开源版暂无演示环境，请自行搭建看效果，以下为企业版演示环境及界面部分截图*********
 
 ### 访问官网
-<a href="https://soft580.com" target="_blank">https://soft580.com   点击访问</a>
-用户名:admin  密码:123456
+<a href="http://www.elepsoft.com" target="_blank">http://www.elepsoft.com   点击链接访问</a>
+用户名:admin  密码:123456  (测试数据请收下留情,勿删除)
 
 #### 联系微信（动动您金贵的小手指，先给个Star鼓励一下奥，谢谢）
 <div align="left"> <img src="screenshots/wx.png" width = 150 height = 170></div>
